@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.serie {
+    display: flex;
+    padding-top: 1rem;
+    justify-content: space-around;
+}
+.serie li {
+    list-style-type:none;
+}
+.serie li a {
+    text-decoration: none;
+    color: white;
+}
+.navbar {
+    margin-top: 0;
+    background-color: darkgoldenrod;
+    height: 3rem;
+}
+.square {
+    color: rgb(106, 0, 177);
+    height: 10rem;
+    font-size: x-large;
+    text-align: center;
+    line-height: 10rem;
+}
